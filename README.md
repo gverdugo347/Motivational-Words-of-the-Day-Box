@@ -5,4 +5,8 @@ When a student presses the wired clicker once, the screen displays a Baldwin Eag
 
 The device was created to fulfill the need for an engaging and consistent source of morning motivation for students with extensive learning needs.
 
+Our work was recently recognized with Boston College’s Exemplary Build Award for Physical Computing and this device has been selected to be given to the Campus School. 
 We hope this project motivates many students! The files above includes the code for the Matrix Portal m4 and the file for the laser cut box.
+
+If you are interested in learning how to build this step by step, copy and paste this link below on a browser to go to my Instructables:
+https://www.instructables.com/Motivational-Words-of-the-Day-Box/
