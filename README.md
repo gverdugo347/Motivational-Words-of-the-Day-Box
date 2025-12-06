@@ -5,4 +5,4 @@ When a student presses the wired clicker once, the screen displays a Baldwin Eag
 
 The device was created to fulfill the need for an engaging and consistent source of morning motivation for students with extensive learning needs.
 
-We hope this project motivates many students!
+We hope this project motivates many students! The files above includes the code for the Matrix Portal m4 and the file for the laser cut box.
